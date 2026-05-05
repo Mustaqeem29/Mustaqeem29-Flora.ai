@@ -2,6 +2,8 @@
 
 Flora.ai is a professional-grade plant identification and gardening management interface. This version (Lite) is a privacy-focused deployment designed for Cloud Run, featuring a robust botanical gallery, a community interaction hub, and a personal garden specimen archive.
 
+Live demo: https://remix-flora-ai-1276260204.asia-southeast1.run.app
+
 ## 🌿 Overview
 
 This application serves as a digital companion for botanists, gardeners, and plant enthusiasts. It provides a structured way to explore botanical data, manage a private collection of plant specimens, and interact with a community of likeminded explorers.
